@@ -1,6 +1,6 @@
 
-Hi 👋, I'm Mohammad Waqas  
-<div align="center"> <img src="https://raw.githubusercontent.com/WaqasAsif2002/WaqasAsif2002/main/Youtube%20Channel%20Banner.png"> </div>
+Hi 👋, I'm Jahanzaib Khokhar  
+<div align="center"> <img src="https://github.com/jahanzaib7/jahanzaib7/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png?raw=true"> </div>
 <br>
 
  <center><b>A passionate Full Stack developer from Pakistan</b></center>
