@@ -57,7 +57,7 @@ Hi 👋, I'm Jahanzaib Khokhar
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/41522403?s=280&v=4" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt="selenium" width="40" height="40"/> 
