@@ -1,4 +1,4 @@
-
+[
 Hi 👋, I'm Jahanzaib Khokhar  
 <div align="center"> <img src="https://github.com/jahanzaib7/jahanzaib7/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png?raw=true"> </div>
 <br>
@@ -11,7 +11,7 @@ Hi 👋, I'm Jahanzaib Khokhar
 
 🌱 I’m currently learning VueJS, NextJS, Angular 
 
-📝 Connect with me on [LinkedIn](https://[https://www.linkedin.com/in/jahanzaib-khokhar/])  
+📝 Connect with me on [LinkedIn][https://www.linkedin.com/in/jahanzaib-khokhar/]
 
 💬 Ask me about Front-End / Back-End Development and QA Related Questions  
 
@@ -71,3 +71,4 @@ Hi 👋, I'm Jahanzaib Khokhar
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahanzaib7&limit=5&theme=flat&combine_all_yearly_contributions=true)
+](https://www.linkedin.com/in/jahanzaib-khokhar/)
