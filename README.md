@@ -71,14 +71,3 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=jahanzaib7&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributions" />
 </div>
-
----
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib7&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib7&layout=compact&theme=radical" alt="Top Languages" />
-</div>
