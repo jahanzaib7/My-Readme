@@ -12,7 +12,7 @@ Hi 👋, I'm Jahanzaib Khokhar
 
 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/jahanzaib-khokhar/)
 
-💬 Ask me about Front-End / Back-End Development and QA Related Questions  
+💬 Ask me about Front-End / QA Related Questions  
 
 📫 How to reach me: **jahanzaibjk9@gmail.com**  
 
@@ -38,9 +38,6 @@ Hi 👋, I'm Jahanzaib Khokhar
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -63,11 +60,10 @@ Hi 👋, I'm Jahanzaib Khokhar
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png" alt="selenium" width="40" height="40"/> 
   </a>
 </p>
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jahanzaib7&limit=5&theme=flat&combine_all_yearly_contributions=true)
-](https://www.linkedin.com/in/jahanzaib-khokhar/)
