@@ -1,4 +1,3 @@
-[
 Hi 👋, I'm Jahanzaib Khokhar  
 <div align="center"> <img src="https://github.com/jahanzaib7/jahanzaib7/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png?raw=true"> </div>
 <br>
