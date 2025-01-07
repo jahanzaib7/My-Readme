@@ -11,7 +11,7 @@ Hi 👋, I'm Jahanzaib Khokhar
 
 🌱 I’m currently learning VueJS, NextJS, Angular 
 
-📝 Connect with me on [LinkedIn][https://www.linkedin.com/in/jahanzaib-khokhar/]
+📝 Connect with me on [LinkedIn]([https://www.linkedin.com/in/jahanzaib-khokhar/])
 
 💬 Ask me about Front-End / Back-End Development and QA Related Questions  
 
