@@ -3,21 +3,19 @@ Hi 👋, I'm Jahanzaib Khokhar
 <div align="center"> <img src="https://github.com/jahanzaib7/jahanzaib7/blob/main/Purple%20Blue%20Simple%20Professional%20Marketing%20Professional%20LinkedIn%20Article%20Cover%20Image.png?raw=true"> </div>
 <br>
 
- <center><b>A passionate Full Stack developer from Pakistan</b></center>
+ <center><b>A passionate Front-end Developer from Pakistan</b></center>
 
 
 
 <br><br>
 
-🌱 I’m currently learning MERN Stack & pursuing BS (Hons) in Software Engineering  
-
-👨‍💻 All of my projects are available at [My Portfolio](https://waqasasif-porfolio.netlify.app/)  
+🌱 I’m currently learning VueJS, NextJS, Angular 
 
 📝 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-waqas-7a98aa1ab/)  
 
 💬 Ask me about Front-End / Back-End Development and QA Related Questions  
 
-📫 How to reach me: **waqas.khokhar2002@gmail.com**  
+📫 How to reach me: **jahanzaibjk9@gmail.com**  
 
 
 ### 🛠️ Languages and Tools:
